@@ -1,0 +1,9 @@
+ID	VELOCIDADE	DATA/HORA
+--------------------------------------------------
+20250129_233551	ID: 0	Velocidade: 16.66 km/h	
+20250129_233552	ID: 1	Velocidade: 138.97 km/h	Excedeu Limite
+20250129_233553	ID: 2	Velocidade: 24.76 km/h	
+20250129_233602	ID: 3	Velocidade: 84.97 km/h	Excedeu Limite
+20250129_233609	ID: 5	Velocidade: 9.78 km/h	
+20250129_233613	ID: 6	Velocidade: 76.47 km/h	Excedeu Limite
+20250129_233616	ID: 8	Velocidade: 15.43 km/h	
