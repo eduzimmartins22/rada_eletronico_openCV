@@ -31,10 +31,10 @@ class Config:
     AREA_DETECCAO_SUPERIOR = 150  
     AREA_DETECCAO_INFERIOR = 550
     
-    FPS = 30  # Taxa de quadros por segundo
-    PIXEL_TO_METERS = 0.05  # Ajuste conforme calibração
-    MAX_TRACKING_AGE = 1.0  # Tempo máximo para manter um tracking ativo
-    MIN_TRACKING_HITS = 3   # Mínimo de detecções para considerar um tracking válido
+    FPS = 30  
+    PIXEL_TO_METERS = 0.05  
+    MAX_TRACKING_AGE = 1.0 
+    MIN_TRACKING_HITS = 3  
     
     @staticmethod
     def calcular_escala_pixels():
